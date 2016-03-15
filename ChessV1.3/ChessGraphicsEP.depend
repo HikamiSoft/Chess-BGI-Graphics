@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1457562060 source:c:\users\daniele\onedrive\documenti\programs\chessgraphicsep\main.cpp
+	<iostream>
+	<graphics.h>
+	<quadratochess.h>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<windows.h>
+
+1266094214 d:\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1456907015 source:c:\users\yy\onedrive\documenti\programs\chessgraphicsep\main.cpp
+	<iostream>
+	<graphics.h>
+	<quadratochess.h>
+	<stdlib.h>
+	<string>
+
+1266094214 c:\program files\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
